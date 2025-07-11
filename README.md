@@ -3,7 +3,7 @@ bdix-speed-bypass
 bdix-speed-bypass
 যেকোনো File কে BDIX Speed এ Download করুন
 
-https://phpcarry.com/store/bdix-bypass-proxy
+https://my.phpcarry.com/store/bdix-bypass-proxy
 
 কিভাবে Proxifier-এ প্রক্সি সেটআপ করবেন?
 Proxifier Proxies Settings
